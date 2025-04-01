@@ -2,6 +2,11 @@
 
 This is a frontend project where I am learning **HTML** and **CSS** by building an Amazon Clone.
 
+[![Watch the video](https://img.youtube.com/vi/6QH3M2XUjVo/0.jpg)](https://youtu.be/6QH3M2XUjVo)
+
+Click the image above to watch the demo video.
+
+
 ## 🚀 Technologies Used
 - **HTML**
 - **CSS**
