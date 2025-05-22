@@ -17,7 +17,6 @@ Live Link : https://gaggz1.github.io/Amazon-Clone-Frontend/
 - **CSS**
 
 ## 📌 Features (Planned)
-- Responsive design
 - Amazon-like homepage layout
 - Navigation bar
 - Product listing
