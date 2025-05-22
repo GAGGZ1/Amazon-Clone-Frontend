@@ -24,9 +24,8 @@ Click the image above to watch the demo video.
 Amazon-Clone-Frontend/
 ├── index.html
 ├── style.css
-├── assets/
-│   ├── images/
-│   ├── icons/
+├── images/
+   
 ```
 
 ## 🎯 Goal
